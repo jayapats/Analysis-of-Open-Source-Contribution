@@ -1,0 +1,2 @@
+10 most interactive projects from Git is selected to compare the Git rankings to actual rankings.
+Ranking is assigned considering the overall contributions(Code contributions as well as non-code contributions)
